@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head>
+
+<title> Gudini </title>
+
+<h1><center>Gudini Магазин вязаных игрушек</center></h1>
+
+</head>
+
+<a href="02.html">
+<img src="01.png" width="137" height="60" title=" Галерея " border="0" >
+</a>
+
+<h1><center><p>Описание</center></h1>
+
+
+<h3><center>Друзья!!! <br>Наш магазин предлогает  игрушки и сувениры ручной работы.<br>В наличии много авторских,эксклюзивных работ.<br>Большой  ассортимент, так же выполняем работы под заказ.<br>Цены доступные.<br>Доставка по всей России,почтой России.<br>Присоединяйтесь сами и приглашайте друзей.</p></center><h3>
+<br>
+<br>
+<br>
+<br><h3>Контакты:</h3>
+Наш скайп:
+<br><a href="https://vk.com/gudini_magazin_vyazanyh_igrushek">Наш магазин в вк!</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<h5><center>Cвяжем хорошее настроение!!!</center></h5>
+ 
+<body background="fon.png" link="red" vlink="MediumVioletRed" alink="HotPink">
+
+</body>
+
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head>
+
+<title> Gudini </title>
+
+<h1><center> Галерея </center>
+
+<a href="1.html">
+<img src="02.png" width="" height="" title=" Вернуться назад! " border="0" >
+</a>
+
+
+<center>
+<img src="10.jpg" width="247" height="250" title=" Тофик! " border="0">
+
+<img src="11.jpg" width="248" height="250" title=" Большая кукла! " border="0">
+
+<img src="12.jpg" width="248" height="250" title=" Жираф лошарик! " border="0">
+ 
+<br>
+
+<img src="13.jpg" width="250" height="250" title=" Маленькая собачка! " border="0">
+
+<img src="14.jpg" width="250" height="250" title=" Новогодний олень! " border="0">
+
+<img src="15.jpg" width="250" height="250" title=" Ленивиц Сид! " border="0">
+
+
+</center>
+
+
+</head>
+<body background="fon.png">
+
+
+</body>
+
+</html
